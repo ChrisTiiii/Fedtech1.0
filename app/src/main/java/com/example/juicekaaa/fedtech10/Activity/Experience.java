@@ -197,7 +197,7 @@ public class Experience extends AppCompatActivity {
     private void initUtil(String myCity) {
         mRestcLient = new WeatherRestClient();
         call = mRestcLient.getmIWeatherApi().getWeather(myCity, KEY);
-        backData(myCity);
+//        backData(myCity);
 
     }
 
