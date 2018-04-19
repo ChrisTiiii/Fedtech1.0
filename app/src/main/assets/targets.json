@@ -1,0 +1,41 @@
+{
+  "images": [
+    {
+      "image": "idback.jpg",
+      "name": "idback",
+      "size": [
+        8.56,
+        5.4
+      ],
+      "uid": "uid-string"
+    },
+    {
+      "image": "dog.jpg",
+      "name": "dog"
+    },
+    {
+      "image": "yanfa.JPG",
+      "name": "yanfa"
+    },
+    {
+      "image": "aiguo.jpg",
+      "name": "aiguo"
+    },
+    {
+      "image": "oula.jpg",
+      "name": "oula"
+    },
+    {
+      "image": "tuling.jpg",
+      "name": "tuling"
+    },
+    {
+      "image": "fedtech.jpg",
+      "name": "fedtech"
+    },
+    {
+      "image": "gong.jpg",
+      "name": "gong"
+    }
+  ]
+}
